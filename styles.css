@@ -56,6 +56,18 @@ html{
     color:#ff5080;
 }
 
+#initial .content header .content-header .networks a{
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    transition: .5s;
+}
+
+#initial .content header .content-header .networks a:hover{
+    color: #ff5080;
+}
+
 #initial .content .display{
     max-width: 1100px;
     height: 100vh;
@@ -91,4 +103,35 @@ html{
     text-align: center;
 }
 
+#initial .content .display a {
+    text-decoration: none;
+    display: inline-block;
+    margin: 25px;
+    padding: 20px 25px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: .5s;
+}
 
+#initial .content .display a:hover{
+    background-color: #ff5080;
+}
+
+#nav-icons{
+    color:#fff;
+    display: none;
+}
+
+/* A B O U T M E Section */
+
+#aboutme{
+    max-width: 1100px;
+    margin: auto;
+    padding: 100px 15px;
+    color: #111135;
+    display: flex;
+    
+}
