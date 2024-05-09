@@ -133,5 +133,31 @@ html{
     padding: 100px 15px;
     color: #111135;
     display: flex;
-    
+}
+
+#aboutme .container-pic{
+
+    max-width: 400px;
+    margin-right: 80px; 
+}
+
+#aboutme .container-pic img{
+    padding: 20px;
+    width: 100%;
+    border-radius: 20px;
+    background-color: #f3f3f3;
+}
+
+#aboutme .aboutme {
+    margin: 0 40px;    
+}
+
+#aboutme .aboutme .title-section {
+    font-size: 22px;
+    text-transform: uppercase;
+    color:#111135;
+    text-decoration: underline;
+    text-decoration-color: #f3f3f3;
+    text-decoration-thickness: 5px;
+
 }
