@@ -10,11 +10,11 @@
 html{
     scroll-behavior: smooth;
 }
-#initial {
-    background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,rgba(0,0,0,.7)), url("img/init\ port.jpeg"));
+#initial{
+    background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url("img/init\ port.jpeg");
     background-size: cover;
     background-position: center center;
     height: 100vh;
-
 } 
+
 
