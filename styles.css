@@ -159,5 +159,30 @@ html{
     text-decoration: underline;
     text-decoration-color: #f3f3f3;
     text-decoration-thickness: 5px;
+}
 
+#aboutme .aboutme h2{
+    font-size: 34x;
+    font-weight: bold;
+    margin: 20px 0;
+    letter-spacing: 2px;
+}
+
+#aboutme .aboutme h2 span {
+    color:#ff5080;
+}
+
+#aboutme .aboutme h3{
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+#aboutme .aboutme p{
+    font-size: 14px;
+    line-height: 25px;
+    color: #565656;
+    margin-bottom: 12px;
 }
