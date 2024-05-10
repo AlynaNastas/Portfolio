@@ -202,3 +202,37 @@ html{
     background-color: #ff5080;
     color: #fff;
 }
+
+/* S E R V I C E S section*/
+
+#services{
+    padding: 100s 15px;
+    text-align: center;
+    background-color: #f3f3f3;
+}
+
+#services .title-section{
+    font-size: 22px;
+    text-transform: uppercase;
+    color:#111135;
+    text-decoration: underline;
+    text-decoration-color: #d3d3d3;
+    text-decoration-thickness: 5px;
+}
+#services .colum{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin: 30px auto;
+}
+
+#services .colum .service{
+    max-width: 350px;
+    background-color: #fff;
+    padding: 30px;
+    margin: 0 5px;
+    border-radius: 5px;
+    transition: .5s;
+
+}
+
